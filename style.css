@@ -312,7 +312,7 @@ img {
   justify-content: center;
   align-items: center;
   padding: 15px 0;
-  background: var(--fade-text-color);
+  background: var(--primary-color);
 }
 .mofpi-menu li {
   padding: 0 10px;
