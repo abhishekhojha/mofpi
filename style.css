@@ -327,6 +327,7 @@ img {
   text-decoration: none;
   color: var(--white-color);
   font-size: 12px;
+  font-weight: 600;
 }
 
 .mofpi-menu a:hover {
